@@ -8,7 +8,7 @@
 
 ! For Elasticity:
 
-! 1. mu1 = $$\mu_1$$! 2. nu = Poisson's ratio ! 3. Gc = Critical energy release rate ! 4. sts = Tensile strength ! 5. scs = Compressive strength
+! 1. mu1 = $$\mu_1$$ ! 2. mu2 = $$\mu_2$$ ! 3. mu_pr = $$\kappa$$ ! 4. alph1 = $$\alpha_1$$ ! 5. alph2 = $$\alpha_2$$ ! 6. m1 = $$\nu_1$$ ! 7. m2 = $$\nu_2$$ ! 8. a1 = $$\beta_1$$ ! 9. a2 = $$\beta_2$$
 
 ! For Viscosity:
 
