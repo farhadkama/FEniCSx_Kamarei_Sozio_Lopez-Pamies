@@ -4,9 +4,17 @@
 
 !**********************************************************************
 
-! Usage: ! ! This code takes as inputs the 5 material properties listed below: ! 1. E = Young's modulus! 2. nu = Poisson's ratio ! 3. Gc = Critical energy release rate ! 4. sts = Tensile strength ! 5. scs = Compressive strength
+! Usage: ! ! This code takes as inputs the 16 material properties listed below.
 
-! In addition, the user must specify the regularization length for these boundary value problems. Typically, this length should be chosen so that it is smaller than the smallest size of the structure, as well as the material characteristic length scale (3Gc)/(16 Wts).
+! For Elasticity:
+
+! 1. mu1 = $$\mu_1$$! 2. nu = Poisson's ratio ! 3. Gc = Critical energy release rate ! 4. sts = Tensile strength ! 5. scs = Compressive strength
+
+! For Viscosity:
+
+! 1. E = Young's modulus! 2. nu = Poisson's ratio ! 3. Gc = Critical energy release rate ! 4. sts = Tensile strength ! 5. scs = Compressive strength
+
+! In addition, the user must specify the geometry or dicretization of interest.
 
 !**********************************************************************
 
