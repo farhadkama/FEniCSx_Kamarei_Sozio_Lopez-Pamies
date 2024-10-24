@@ -12,7 +12,7 @@
 
 ! For Viscosity:
 
-! 1. E = Young's modulus! 2. nu = Poisson's ratio ! 3. Gc = Critical energy release rate ! 4. sts = Tensile strength ! 5. scs = Compressive strength
+! 10. K1 = $$K_1$$ ! 11. K2 = $$K_2$$ ! 12. bta1 = $$\gamma_1$$ ! 13. bta1 = $$\gamma_2$$ ! 14. eta0 = $$\eta_0$$ ! 15. etaInf = $$\eta_{\inf}$$ ! 14. N0 = $$N_0$$
 
 ! In addition, the user must specify the geometry or dicretization of interest.
 
