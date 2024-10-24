@@ -12,7 +12,7 @@
 
 ! For Viscosity:
 
-! 10. K1 = $$K_1$$ ! 11. K2 = $$K_2$$ ! 12. bta1 = $$\gamma_1$$ ! 13. bta1 = $$\gamma_2$$ ! 14. eta0 = $$\eta_0$$ ! 15. etaInf = $$\eta_{\infty}$$ ! 14. N0 = $$N_0$$
+! 10. K1 = $$K_1$$ ! 11. K2 = $$K_2$$ ! 12. bta1 = $$\gamma_1$$ ! 13. bta1 = $$\gamma_2$$ ! 14. eta0 = $$\eta_0$$ ! 15. etaInf = $$\eta_{\infty}$$ ! 16. N0 = $$N_0$$
 
 ! In addition, the user must specify the geometry or dicretization of interest.
 
