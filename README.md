@@ -1,6 +1,6 @@
 # FEniCSx_Kamarei_Sozio_Lopez-Pamies
 
-! This repository contains FEniCSx example codes for solving boundary value problems of a family of internal-variable-based constitutive models for the viscoelastic response of elastomers of any compressibility used in [1]. 
+! This repository contains FEniCSx example codes for solving boundary value problems of a family of internal-variable-based constitutive models for the viscoelastic response of elastomers of any compressibility undergoing finite deformations, used in [1]. A large variety of non-Gaussian elasticities and nonlinear viscosities can be taken into account by using the models introduced by [2]. The 'Uniaxial test' and the 'Single edge notch tension test' [1] are the examples used.
 
 !**********************************************************************
 
