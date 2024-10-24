@@ -17,5 +17,7 @@ Alternatively, you may also reach out to my Ph.D. advisor at pamies@illinois.edu
 !**********************************************************************
 
 ! References:
+
 ! [1] Kamarei, F., Sozio, F., Lopez-Pamies, O. 2024. The single edge notch fracture test for viscoelastic elastomers. https://arxiv.org/pdf/2410.15380
+
 ! [2] Kumar, A., Lopez-Pamies, O., 2016. On the two-potential constitutive modeling of rubber viscoelastic materials. Comptes Rendus Mécanique 344, 102–112. http://pamies.cee.illinois.edu/Publications_files/CRM_2016.pdf
