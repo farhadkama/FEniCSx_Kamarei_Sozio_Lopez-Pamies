@@ -16,7 +16,7 @@ One way to run these examples is using Google Colab, which provides an easy-to-u
 
 ##  Usage
 
-This code takes the following **16 material properties** as input:
+This code takes the following **16 material properties** as inputs:
 
 **Elasticity:**
 
