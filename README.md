@@ -1,4 +1,4 @@
-# FEniCSx_Kamarei_Sozio_Lopez-Pamies
+# Computational Viscoelasticity: Pedagogical Examples for Finite Deformation Elastomers
 
 This repository contains FEniCSx example codes for solving boundary value problems of a family of internal-variable-based constitutive models for the viscoelastic response of elastomers of any compressibility undergoing finite deformations, put forth in [1].
 
