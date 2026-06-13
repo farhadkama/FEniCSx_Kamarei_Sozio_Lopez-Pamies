@@ -1,5 +1,7 @@
 # Computational Viscoelasticity: Pedagogical Examples for Finite Deformation Elastomers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20682511.svg)](https://doi.org/10.5281/zenodo.20682511)
+
 This repository contains FEniCSx example codes for solving boundary value problems of a family of internal-variable-based constitutive models for the viscoelastic response of elastomers of any compressibility undergoing finite deformations, put forth in [1].
 
 A large variety of non-Gaussian elasticities and nonlinear viscosities can be taken into account by using the models introduced by [2].
